@@ -1,0 +1,12 @@
+#botaoSocial
+{
+background-color: black;
+color: #FFFAFA;
+border: 0;
+border-radius: 4px;
+padding: 10px 20px;
+}
+#botaoSocial:hover
+{
+	background-color: #53868B;
+}
